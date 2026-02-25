@@ -1,12 +1,57 @@
 /*Add your CSS here*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+  color: black;
+}
 
+h1 {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+  color: red;
+}
 
+h2 {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+  color: maroon;
+}
 
+img {
+  width: 100%;
+  height: auto;
+}
 
+.caption {
+  color: tomato;
+  font-style: italic;
+}
 
+a:link {
+  color: yellowgreen;
+}
 
+a:visited {
+  color: slateblue;
+}
 
+a:hover {
+  color: yellow;
+}
 
+a:active {
+  color: orange;
+}
+
+footer a:hover {
+text-decoration: none;
+}
 
 /*No touch*/
 h1, h2, nav, .cap, footer {
