@@ -1,12 +1,4 @@
 /*Add your CSS here*/
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: Helvetica, Arial, sans-serif;
-  color: black;
-}
-
 h1 {
   margin: 0;
   padding: 0;
@@ -21,6 +13,14 @@ h2 {
   box-sizing: border-box;
   font-family: Helvetica, Arial, sans-serif;
   color: maroon;
+}
+
+ p {
+margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+  color: black;
 }
 
 img {
